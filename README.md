@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://cheerful-stardust-acd820.netlify.app)
-- Live Site URL: (https://cheerful-stardust-acd820.netlify.app)
+- Solution URL: (https://less-haa.netlify.app)
+- Live Site URL: (https://less-haa.netlify.app)
 
 ## My process
 
